@@ -19,11 +19,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [
-    "corrupted",
-    "image",
-    "is"
-  ],
   "dependencies": {
     "image-size": "^0.6.0"
   },
@@ -31,6 +26,12 @@
     "gulp-format-md": "^1.0.0",
     "mocha": "^3.4.2"
   },
+  "keywords": [
+    "corrupted",
+    "image",
+    "is",
+    "jpeg"
+  ],
   "verb": {
     "toc": false,
     "layout": "default",
