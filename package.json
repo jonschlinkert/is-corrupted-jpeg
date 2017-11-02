@@ -1,7 +1,7 @@
 {
   "name": "is-corrupted-jpeg",
   "description": "Returns true if a file appears to be a corrupted jpeg image file and is corrupted.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/jonschlinkert/is-corrupted-jpeg",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-corrupted-jpeg",
