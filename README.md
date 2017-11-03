@@ -14,7 +14,7 @@ $ npm install --save is-corrupted-jpeg
 
 ## How reliable is this?
 
-This will not be correct 100% of the time. This library only returns `true` when the jpeg's dimensions are undefined. However, it's possible for a jpeg to be corrupted whilst still having readble dimensions.
+This will not be correct 100% of the time. This library only returns `true` when the jpeg's dimensions are undefined. However, it's possible for a jpeg to be corrupted whilst still having readable dimensions.
 
 ## Usage
 
